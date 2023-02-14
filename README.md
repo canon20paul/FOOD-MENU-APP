@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@canon20paul](https://github.com/canon20paul/)
 - Twitter: [@twitterhandle](paul malongo)
-- LinkedIn: [paulmalongo(linkedin.com/in/paul-malongo-3152875b)
+- LinkedIn: [paulmalongo(https://linkedin.com/in/paul-malongo-3152875b)
 
 ## 🤝 Contributing
 
