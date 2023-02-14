@@ -1,7 +1,7 @@
 # FOOD-MENU-APP
 
 
->  A simple basic single page FOOD-MENU-APP Application Project. An application that Displays Food menu items. Project demonstrates the 3D magic in css. Project runs purely on Html and CSS and JavaScript.
+>  A simple basic single page FOOD-MENU-APP Application Project. An application that Displays Food menu items. Project demonstrates the 3D magic and power od animation in css. Project runs purely on Html and CSS and JavaScript.
 ## Built With
 
 - Html
